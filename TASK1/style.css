@@ -1,0 +1,42 @@
+*{
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    
+}
+h1{
+    padding: 0px;
+    margin: 0px;
+    font-size:5ch;
+    
+    
+}
+.arr{
+    position: relative;
+    top:-125px;
+    width: 200px;
+    border-radius:15px ;
+    padding: 20px;
+    background-color: black;
+    margin-left: 350px;
+    
+    
+}
+.button{
+    width: 70px;
+    height: 70px;
+    border-radius: 3px;
+    outline:none;
+    border-radius: 30px;
+    background-color:gold;
+    color: black;
+    
+}
+
+#result{
+    text-align: right;
+    border-radius: 5px;
+    color: aliceblue;
+}
